@@ -8,7 +8,7 @@ the domain was taken down.
 I have downloaded them using...
 
 ```shell
-$ mkdir -p ~Documents/Oils/Information\ Sheets
+$ mkdir -p ~/Documents/Oils/Information\ Sheets
 
 $ cd ~/Documents/Oils/Information\ Sheets
 
