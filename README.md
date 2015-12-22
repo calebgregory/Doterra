@@ -16,7 +16,11 @@ $ wget http://www.lifeisessential.com/pdf/ --recursive --level=1 --accept '*.pdf
 
 $ for f in *.pdf; do mv "$f" "${f/\ Information\ Sheet/}"; done
 ```
-if you want the satisfaction of using these little scripts, feel free.
+Unfortunately, these are no longer hosted at lifeisessential.com, so 
+running these little scripts won't work for you. I just present them 
+here with some amount of nerdy pride - hey, we get it where we can.
 
-I've found these documents helpful. Hopefully they are of use to you.
+I have found these documents helpful. Hopefully you will find them to 
+be of use as well.
+
 Enjoy!
